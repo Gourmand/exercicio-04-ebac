@@ -25,8 +25,8 @@ ul {
 
 .articles {
   display: flex;
-  justify-content: space-around;
-  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
 }
 
 section {
